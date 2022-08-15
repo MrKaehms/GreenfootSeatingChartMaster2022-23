@@ -4,7 +4,7 @@ PROJECT TITLE: AP CSA Assignment 1 (An interactive seating chart using Greenfoot
 PURPOSE OF PROJECT: The purpose of this assignment is to visually work with classes and subclasses, abstract classes, and interfaces, and to familiarize yourself with the basics of the GIT command line.  As a side effect, it will help your instructor learn your names!
 
 VERSION or DATE: 07/21/2020
-Version 2 (2021-22): 09/06/21
+Version 3 (2022-23): 08/15/22
 
 HOW TO START THIS PROJECT:  To start this project, assuming that you have Greenfoot installed, click on the greenfoot project file within the top level of the assignment directory.  If greenfoot is correctly installed, you will see a green foot icon just to the left of "project".
 
@@ -22,9 +22,9 @@ NOTE: Each class build-master should fork the main repo to a new repo before sta
 
 2) Move to a directory where you want to keep your work. For instance, cd c:/ then cd Users/YourName/Documents/Assignments
 
-3) Clone (first time, each class build-master should fork, so that each class has their own copy) the repository into the directory where git bash is pointing:
+3) Fork the MASTER COPY (first time, each class build-master should fork, so that each class has their own copy) the repository into the directory where git bash is pointing:
 
-    git clone https://github.com/DHS-CP/GreenfootSeatingChartMaster2021-22.git  (this will change based on fork created by build-master(s).
+    git clone https://github.com/DHS-CP/GreenfootSeatingChartMaster2022-23.git  (this will change based on fork created by build-master(s).
 
 NOTE: This should set up all initial conditions for GIT and avoid a lot of confusion.
 
@@ -51,7 +51,7 @@ git status
 git commit -m “adding my files to the repository”
 
 8) Push your changes to the remote repository (each period should have their own cloned or branched version to work with.
-Do not commit back to the master repo:
+Do not commit back to the master repo):
 
 git push
 
